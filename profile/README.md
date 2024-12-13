@@ -22,3 +22,5 @@
 Eyesight is a device designed to revolutionize production efficiency using computer vision technology. By automating quality checks and item counting, Eyesight eliminates the inefficiencies of manual inspection, reducing time consumption and human error. Equipped with an integrated camera system, the device ensures precise quality assurance and accurate item tracking. Its connection to a mobile application enables users to monitor production remotely in real time. Eyesight addresses the growing demand for consistent quality standards and cost-effective production processes, delivering improved accuracy, reduced labor costs, and enhanced operational efficiency.
 
 ---
+
+## Cloud Architecture
